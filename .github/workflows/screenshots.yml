@@ -1,6 +1,6 @@
 name: Update screenshots
 
-# Captures the live portfolio and agency sites for the profile README.
+# Captures the live portfolio, agency and hospital-system sites for the profile README.
 # Runs when this file changes, every Monday, or manually from the Actions tab.
 on:
   workflow_dispatch:
@@ -35,6 +35,7 @@ jobs:
           const sites = [
             { file: 'portfolio.jpg', url: 'https://zainaftab-dev.vercel.app' },
             { file: 'agency.jpg', url: 'https://strategeonsoftwares.com' },
+            { file: 'hms.jpg', url: 'https://hospital-management-system-react-ap.vercel.app' },
           ];
           (async () => {
             const b = await chromium.launch();
