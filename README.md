@@ -23,62 +23,62 @@ I'm a full-stack engineer and a Software Engineering student at **COMSATS Univer
 <table>
   <tr>
     <td width="50%" valign="top">
+      <a href="https://strategeonsoftwares.com">
+        <img src="assets/agency.jpg" alt="Strategeon Softwares agency website"/>
+      </a>
+      <h3>🌐 Strategeon Softwares</h3>
+      <p>My agency's website. Statically generated pages, an interactive 3D robot hero, and Sage, an AI assistant that answers visitor questions about services, process and pricing.</p>
+      <p><a href="https://strategeonsoftwares.com"><b>Live site</b></a> · <a href="https://github.com/ZainAftab-dev/strategeon-softwares">Code</a></p>
+      <p><code>Next.js 16</code> <code>React 19</code> <code>Spline 3D</code> <code>Groq LLM</code></p>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/ZainAftab-dev/Hospital-Management-System-React">
         <img src="assets/hms.jpg" alt="ZM Hospital Management System dashboard"/>
       </a>
       <h3>🏥 ZM Hospital Management System</h3>
-      <p>Hospital operations platform covering patients, doctors, appointments, pharmacy, billing and analytics. Next.js front end, NestJS REST API with JWT auth and role-based access control, SQL Server through Prisma.</p>
-      <p><a href="https://hospital-management-system-react-ap.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/ZainAftab-dev/Hospital-Management-System-React">Web version</a> · <a href="https://github.com/ZainAftab-dev/hospital-management-system">Java desktop version</a></p>
-      <p><code>Next.js</code> <code>NestJS</code> <code>Prisma</code> <code>SQL Server</code> <code>JWT</code></p>
+      <p>Hospital operations platform covering patients, doctors, appointments, pharmacy dispensing, billing with PDF invoices and analytics. NestJS REST API with JWT auth and role-based access control, SQL Server through Prisma, one-command Docker setup.</p>
+      <p><a href="https://hospital-management-system-react-ap.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/ZainAftab-dev/Hospital-Management-System-React">Code</a></p>
+      <p><code>Next.js</code> <code>NestJS</code> <code>Prisma</code> <code>SQL Server</code> <code>Docker</code></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ZainAftab-dev/Personal-Finance-Manager">
         <img src="assets/financeiq.jpg" alt="FinanceIQ dashboard"/>
       </a>
       <h3>💸 FinanceIQ</h3>
-      <p>Personal finance intelligence. Turns raw bank statements into spending trends, fraud detection (Isolation Forest), subscription tracking, budgets, and a conversational AI assistant.</p>
+      <p>AI-powered personal finance dashboard. Turns raw bank statements into spending trends, fraud detection (Isolation Forest), subscription tracking, budgets and a conversational AI assistant.</p>
       <p><a href="https://github.com/ZainAftab-dev/Personal-Finance-Manager"><b>Code</b></a></p>
       <p><code>Python</code> <code>Streamlit</code> <code>scikit-learn</code> <code>Plotly</code> <code>Claude API</code></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
-      <a href="https://strategeon-llc.vercel.app">
-        <img src="assets/store.jpg" alt="Strategeon networking store"/>
+      <a href="https://zainaftab-dev.vercel.app">
+        <img src="assets/portfolio.jpg" alt="Zain Aftab portfolio website"/>
       </a>
-      <h3>🛒 Strategeon Store</h3>
-      <p>UK e-commerce storefront for networking hardware, with product catalogue, cart and real card payments through Stripe Checkout.</p>
-      <p><a href="https://strategeon-llc.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/ZainAftab-dev/StrategeonLLC">Code</a></p>
-      <p><code>Next.js 16</code> <code>React 19</code> <code>Stripe</code> <code>TypeScript</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://zain-aic354-ml-systems.streamlit.app">
-        <img src="assets/ml.jpg" alt="Machine learning systems web app"/>
-      </a>
-      <h3>🤖 End-to-End ML Systems</h3>
-      <p>Two complete machine learning pipelines, Titanic survival and heart disease, from raw data to tuned Support Vector Classifiers served in one web app.</p>
-      <p><a href="https://zain-aic354-ml-systems.streamlit.app"><b>Live demo</b></a> · <a href="https://github.com/ZainAftab-dev/aic354-ml-systems">Code</a></p>
-      <p><code>Python</code> <code>scikit-learn</code> <code>Pandas</code> <code>Streamlit</code></p>
+      <h3>✨ Developer Portfolio</h3>
+      <p>My personal site, with a custom canvas particle-network hero, bento project showcase, a balanced masonry testimonials wall and live GitHub stats.</p>
+      <p><a href="https://zainaftab-dev.vercel.app"><b>Live site</b></a> · <a href="https://github.com/ZainAftab-dev/Portfolio">Code</a></p>
+      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://weathercast-zain.vercel.app">
-        <img src="assets/weather.jpg" alt="Weathercast showing Lahore"/>
+      <a href="https://moviefinder-zain.vercel.app">
+        <img src="assets/movie.jpg" alt="MovieFinder home page"/>
       </a>
-      <h3>🌤️ Weathercast</h3>
-      <p>Weather app whose sky follows the real conditions and time of day, with a sun-position arc, 24-hour temperature curve and 5-day range bars.</p>
-      <p><a href="https://weathercast-zain.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/ZainAftab-dev/Weather-App">Code</a></p>
-      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>OpenWeather API</code></p>
+      <h3>🎬 MovieFinder</h3>
+      <p>Search movies and TV shows, browse this week's trending titles and keep a watchlist. Late-night cinema design with a featured hero and ranked poster grid.</p>
+      <p><a href="https://moviefinder-zain.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/ZainAftab-dev/Movie-Search-App">Code</a></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>TMDB API</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://lahore-route-planner.vercel.app">
-        <img src="assets/navigation.jpg" alt="Lahore route planner map"/>
+      <a href="https://digital-whiteboard-zain.vercel.app">
+        <img src="assets/whiteboard.jpg" alt="Digital whiteboard with shapes and a sticky note"/>
       </a>
-      <h3>🗺️ Smart Navigation System</h3>
-      <p>Shortest-path route planner for Lahore using Dijkstra's algorithm with live traffic weights, plus a stack-based route builder and linked-list history. C++ console app and interactive web map.</p>
-      <p><a href="https://lahore-route-planner.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/ZainAftab-dev/Smart-Navigation-System">Code</a></p>
-      <p><code>C++</code> <code>JavaScript</code> <code>SVG</code> <code>Algorithms</code></p>
+      <h3>🖊️ Digital Whiteboard</h3>
+      <p>Browser whiteboard on the HTML Canvas: pen, highlighter, shapes, arrows, text, sticky notes, eraser, undo/redo, zoom, keyboard shortcuts, PNG export and auto-save.</p>
+      <p><a href="https://digital-whiteboard-zain.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/ZainAftab-dev/Digital-Whiteboard-App">Code</a></p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Canvas API</code></p>
     </td>
   </tr>
 </table>
@@ -87,13 +87,15 @@ I'm a full-stack engineer and a Software Engineering student at **COMSATS Univer
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| 🌐 **Strategeon Softwares** | Agency website with an interactive 3D hero and an AI chat assistant | Next.js, React, Spline, Groq | [Live](https://strategeonsoftwares.com) · [Code](https://github.com/ZainAftab-dev/strategeon-softwares) |
-| 🎬 **MovieFinder** | Movie and TV search with trending titles and a watchlist | Next.js, TMDB API | [Live](https://moviefinder-zain.vercel.app) · [Code](https://github.com/ZainAftab-dev/Movie-Search-App) |
+| 🛒 **Strategeon Store** | UK e-commerce storefront for networking hardware with Stripe Checkout payments | Next.js, React, Stripe | [Live](https://strategeon-llc.vercel.app) · [Code](https://github.com/ZainAftab-dev/StrategeonLLC) |
+| 🤖 **End-to-End ML Systems** | Titanic survival and heart disease predictors, from raw data to a deployed web app | Python, scikit-learn, Streamlit | [Live](https://zain-aic354-ml-systems.streamlit.app) · [Code](https://github.com/ZainAftab-dev/aic354-ml-systems) |
+| 💎 **Diamond Price Prediction** | Compares five regression models with 10-fold cross-validation and deploys the best (Extra Trees) | Python, scikit-learn, Streamlit | [Live](https://zainaftab-diamond-price.streamlit.app) · [Code](https://github.com/ZainAftab-dev/diamond_price_model) |
+| 🌤️ **Weathercast** | Weather app whose sky follows the real conditions, with a sun arc, hourly curve and 5-day outlook | Next.js, OpenWeather API | [Live](https://weathercast-zain.vercel.app) · [Code](https://github.com/ZainAftab-dev/Weather-App) |
+| 🗺️ **Smart Navigation System** | Lahore route planner using Dijkstra's algorithm with live traffic; C++ console app and web map | C++, JavaScript | [Live](https://lahore-route-planner.vercel.app) · [Code](https://github.com/ZainAftab-dev/Smart-Navigation-System) |
 | ♟️ **Chess with AI** | Desktop chess against a Minimax / Alpha-Beta engine with four strength levels | Java, Swing | [Code](https://github.com/ZainAftab-dev/Chess-Game) |
-| 🖊️ **Digital Whiteboard** | Canvas whiteboard with shapes, sticky notes, undo/redo and PNG export | Next.js, Canvas API | [Live](https://digital-whiteboard-zain.vercel.app) · [Code](https://github.com/ZainAftab-dev/Digital-Whiteboard-App) |
+| 🏥 **HMS Desktop** | Java Swing version of the hospital system with PDF invoices and file storage | Java, Swing | [Code](https://github.com/ZainAftab-dev/hospital-management-system) |
 | 🧮 **Scientific Calculator** | Desk-calculator UI with LCD display, memory keys and paper-tape history | Next.js, React | [Live](https://scientific-calculator-zain.vercel.app) · [Code](https://github.com/ZainAftab-dev/Scientific-Calculator-With-React) |
 | 🧠 **Memory Game** | Card-matching game with two board sizes, timer, streaks and best scores | Next.js, Tailwind | [Live](https://memory-game-zain.vercel.app) · [Code](https://github.com/ZainAftab-dev/Memory-Game) |
-| 💎 **Diamond Price Prediction** | Compares five regression models with 10-fold cross-validation and deploys the best (Extra Trees) | Python, scikit-learn, Streamlit | [Live](https://zainaftab-diamond-price.streamlit.app) · [Code](https://github.com/ZainAftab-dev/diamond_price_model) |
 | 🧮 **Tkinter Calculator** | Desktop scientific calculator with DEG/RAD modes and a history tape | Python, Tkinter | [Code](https://github.com/ZainAftab-dev/Scientific-Calculator) |
 
 ## Tech stack
