@@ -10,7 +10,7 @@
 
 ## About me
 
-I'm a full-stack engineer and a Software Engineering student at **COMSATS University Islamabad, Lahore Campus**. I run **[Strategeon Softwares](https://strategeonsoftwares.com)**, a web development agency, registered as an LLC in Florida, that builds production software for clients in the US and the UK.
+I'm a full-stack engineer and a Software Engineering student at **COMSATS University Islamabad, Lahore Campus**. I run **[Strategeon Softwares](https://strategeonsoftwares.com)**, a web development agency, registered as an LLC in Florida, that builds production software for startups and growing businesses.
 
 - 🚀 **Nine production applications shipped**, including an 18-module hospital management system, a hotel booking platform, a healthcare scheduler, a restaurant QR-ordering system, and finance and logistics dashboards
 - 🧱 Most at home with **Next.js, React, Node.js / NestJS, TypeScript and PostgreSQL**, plus Docker and Stripe in production
@@ -44,9 +44,9 @@ I'm a full-stack engineer and a Software Engineering student at **COMSATS Univer
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ZainAftab-dev/Personal-Finance-Manager">
-        <img src="assets/financeiq.jpg" alt="FinanceIQ dashboard"/>
+        <img src="assets/finance.jpg" alt="Personal Finance Manager dashboard"/>
       </a>
-      <h3>💸 FinanceIQ</h3>
+      <h3>💸 Personal Finance Manager</h3>
       <p>AI-powered personal finance dashboard. Turns raw bank statements into spending trends, fraud detection (Isolation Forest), subscription tracking, budgets and a conversational AI assistant.</p>
       <p><a href="https://github.com/ZainAftab-dev/Personal-Finance-Manager"><b>Code</b></a></p>
       <p><code>Python</code> <code>Streamlit</code> <code>scikit-learn</code> <code>Plotly</code> <code>Claude API</code></p>
@@ -56,9 +56,9 @@ I'm a full-stack engineer and a Software Engineering student at **COMSATS Univer
         <img src="assets/portfolio.jpg" alt="Zain Aftab portfolio website"/>
       </a>
       <h3>✨ Developer Portfolio</h3>
-      <p>My personal site, with a custom canvas particle-network hero, bento project showcase, a balanced masonry testimonials wall and live GitHub stats.</p>
+      <p>My personal site in a light "Arctic Light" design: a canvas particle-network hero, a scroll-driven laptop About section, a laptop project showcase, a chat-style FAQ and an <a href="https://zainaftab-dev.vercel.app/work">All work</a> page listing every project.</p>
       <p><a href="https://zainaftab-dev.vercel.app"><b>Live site</b></a> · <a href="https://github.com/ZainAftab-dev/Portfolio">Code</a></p>
-      <p><code>Next.js 16</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></p>
+      <p><code>Next.js 16</code> <code>React 19</code> <code>TypeScript</code> <code>Canvas API</code></p>
     </td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@ I'm a full-stack engineer and a Software Engineering student at **COMSATS Univer
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| 🛒 **Strategeon Store** | UK e-commerce storefront for networking hardware with Stripe Checkout payments | Next.js, React, Stripe | [Live](https://strategeon-llc.vercel.app) · [Code](https://github.com/ZainAftab-dev/StrategeonLLC) |
+| 🛒 **Strategeon Store** | E-commerce storefront for networking hardware with Stripe Checkout payments | Next.js, React, Stripe | [Live](https://strategeon-llc.vercel.app) · [Code](https://github.com/ZainAftab-dev/StrategeonLLC) |
 | 🤖 **End-to-End ML Systems** | Titanic survival and heart disease predictors, from raw data to a deployed web app | Python, scikit-learn, Streamlit | [Live](https://zain-aic354-ml-systems.streamlit.app) · [Code](https://github.com/ZainAftab-dev/aic354-ml-systems) |
 | 💎 **Diamond Price Prediction** | Compares five regression models with 10-fold cross-validation and deploys the best (Extra Trees) | Python, scikit-learn, Streamlit | [Live](https://zainaftab-diamond-price.streamlit.app) · [Code](https://github.com/ZainAftab-dev/diamond_price_model) |
 | 🌤️ **Weathercast** | Weather app whose sky follows the real conditions, with a sun arc, hourly curve and 5-day outlook | Next.js, OpenWeather API | [Live](https://weathercast-zain.vercel.app) · [Code](https://github.com/ZainAftab-dev/Weather-App) |
@@ -97,6 +97,8 @@ I'm a full-stack engineer and a Software Engineering student at **COMSATS Univer
 | 🧮 **Scientific Calculator** | Desk-calculator UI with LCD display, memory keys and paper-tape history | Next.js, React | [Live](https://scientific-calculator-zain.vercel.app) · [Code](https://github.com/ZainAftab-dev/Scientific-Calculator-With-React) |
 | 🧠 **Memory Game** | Card-matching game with two board sizes, timer, streaks and best scores | Next.js, Tailwind | [Live](https://memory-game-zain.vercel.app) · [Code](https://github.com/ZainAftab-dev/Memory-Game) |
 | 🧮 **Tkinter Calculator** | Desktop scientific calculator with DEG/RAD modes and a history tape | Python, Tkinter | [Code](https://github.com/ZainAftab-dev/Scientific-Calculator) |
+
+**[See all projects with screenshots on my portfolio →](https://zainaftab-dev.vercel.app/work)**
 
 ## Tech stack
 

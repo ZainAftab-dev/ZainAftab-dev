@@ -3,25 +3,29 @@
   <desc id="d">Full-stack engineer and founder of Strategeon Softwares</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0a0f1c"/>
-      <stop offset="1" stop-color="#111a2e"/>
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#eef1f8"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.82" cy="0.45" r="0.45">
-      <stop offset="0" stop-color="#2563eb" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0ea5e9" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+      <path d="M32 0H0V32" fill="none" stroke="#0f172a" stroke-opacity="0.045"/>
     </pattern>
     <linearGradient id="fade" x1="0" x2="1">
-      <stop offset="0.45" stop-color="#0a0f1c" stop-opacity="1"/>
-      <stop offset="0.62" stop-color="#0a0f1c" stop-opacity="0"/>
+      <stop offset="0.45" stop-color="#f8f9fc" stop-opacity="1"/>
+      <stop offset="0.62" stop-color="#f8f9fc" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="net" gradientUnits="userSpaceOnUse" x1="860" y1="40" x2="1240" y2="280">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#0ea5e9"/>
     </linearGradient>
   </defs>
   <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
   <rect width="1280" height="320" rx="18" fill="url(#grid)"/>
   <rect width="1280" height="320" rx="18" fill="url(#glow)"/>
-  <g stroke="#93c5fd" stroke-opacity="0.28" stroke-width="1.2">
+  <g stroke="url(#net)" stroke-opacity="0.42" stroke-width="1.2">
 <line x1="977" y1="69" x2="1028" y2="108"/>
 <line x1="977" y1="69" x2="907" y2="61"/>
 <line x1="1105" y1="49" x2="1064" y2="46"/>
@@ -55,7 +59,7 @@
 <line x1="1161" y1="212" x2="1096" y2="276"/>
 <line x1="1136" y1="105" x2="1100" y2="127"/>
   </g>
-  <g fill="#bfdbfe" fill-opacity="0.8">
+  <g fill="url(#net)" fill-opacity="0.85">
 <circle cx="977" cy="69" r="5"/>
 <circle cx="1105" cy="49" r="3"/>
 <circle cx="1060" cy="125" r="3.5"/>
@@ -83,16 +87,16 @@
 <circle cx="1136" cy="105" r="2.5"/>
 <circle cx="1234" cy="61" r="5"/>
   </g>
-<circle cx="872" cy="162" r="7" fill="#5eead4"/><circle cx="872" cy="162" r="16" fill="#5eead4" opacity="0.15"/>
-<circle cx="1187" cy="105" r="7" fill="#5eead4"/><circle cx="1187" cy="105" r="16" fill="#5eead4" opacity="0.15"/>
-<circle cx="973" cy="182" r="7" fill="#5eead4"/><circle cx="973" cy="182" r="16" fill="#5eead4" opacity="0.15"/>
+<circle cx="872" cy="162" r="7" fill="#0ea5e9"/><circle cx="872" cy="162" r="16" fill="#0ea5e9" opacity="0.16"/>
+<circle cx="1187" cy="105" r="7" fill="#0ea5e9"/><circle cx="1187" cy="105" r="16" fill="#0ea5e9" opacity="0.16"/>
+<circle cx="973" cy="182" r="7" fill="#0ea5e9"/><circle cx="973" cy="182" r="16" fill="#0ea5e9" opacity="0.16"/>
   <rect width="1280" height="320" rx="18" fill="url(#fade)"/>
   <g font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif">
-    <text x="64" y="92" fill="#5eead4" font-size="16" font-weight="700" letter-spacing="3">FULL-STACK ENGINEER · LAHORE, PAKISTAN</text>
-    <text x="62" y="170" fill="#f8fafc" font-size="72" font-weight="800" letter-spacing="-1.5">Zain Aftab</text>
-    <text x="64" y="218" fill="#cbd5e1" font-size="24">Founder of Strategeon Softwares · Building production web apps</text>
-    <text x="64" y="252" fill="#cbd5e1" font-size="24">for clients in the US and UK</text>
-    <rect x="64" y="275" width="56" height="4" rx="2" fill="#5eead4"/>
+    <text x="64" y="92" fill="#4f46e5" font-size="16" font-weight="700" letter-spacing="3">FULL-STACK ENGINEER · LAHORE, PAKISTAN</text>
+    <text x="62" y="170" fill="#0f172a" font-size="72" font-weight="800" letter-spacing="-1.5">Zain Aftab</text>
+    <text x="64" y="218" fill="#475569" font-size="24">Founder of Strategeon Softwares · Building production web apps</text>
+    <text x="64" y="252" fill="#475569" font-size="24">for startups and growing businesses</text>
+    <rect x="64" y="275" width="56" height="4" rx="2" fill="url(#net)"/>
   </g>
-  <rect x="0.5" y="0.5" width="1279" height="319" rx="18" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="18" fill="none" stroke="#0f172a" stroke-opacity="0.08"/>
 </svg>

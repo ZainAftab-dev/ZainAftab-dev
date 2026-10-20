@@ -1,6 +1,9 @@
 name: Update screenshots
 
-# Captures the live portfolio, agency and hospital-system sites for the profile README.
+# Captures the live portfolio and agency sites for the profile README.
+# The hospital and finance dashboards are static images (assets/hms.jpg, assets/finance.jpg),
+# because the live HMS demo opens on its login page.
+# Viewport matches the dashboard images' aspect so each Featured work row lines up.
 # Runs when this file changes, every Monday, or manually from the Actions tab.
 on:
   workflow_dispatch:
@@ -35,12 +38,11 @@ jobs:
           const sites = [
             { file: 'portfolio.jpg', url: 'https://zainaftab-dev.vercel.app' },
             { file: 'agency.jpg', url: 'https://strategeonsoftwares.com' },
-            { file: 'hms.jpg', url: 'https://hospital-management-system-react-ap.vercel.app' },
           ];
           (async () => {
             const b = await chromium.launch();
             for (const s of sites) {
-              const p = await b.newPage({ viewport: { width: 1440, height: 900 } });
+              const p = await b.newPage({ viewport: { width: 1488, height: 741 } });
               await p.goto(s.url, { waitUntil: 'networkidle', timeout: 60000 });
               await p.waitForTimeout(6000);
               await p.screenshot({ path: out + s.file, type: 'jpeg', quality: 82 });
@@ -54,5 +56,5 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
-          git add assets/*.jpg
+          git add assets/portfolio.jpg assets/agency.jpg
           git diff --cached --quiet || (git commit -m "Update screenshots from the live sites" && git push)
